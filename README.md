@@ -8,11 +8,10 @@ The analysis systematically examines **data imbalance, feature standardization, 
 
 ## 📂 Dataset
 
-* **Name:** Laptop Pricing
-* **Source:** Kaggle
-* **Link:** [https://www.kaggle.com/datasets/huzdaria/laptop-pricing](https://www.kaggle.com/datasets/huzdaria/laptop-pricing)
-* **Observations:** 238 (229 after cleaning)
-* **Features:** Hardware specifications, brand, category, OS, and price
+- **Name:** Laptop Pricing  
+- **Source:** https://www.kaggle.com/datasets/huzdaria/laptop-pricing
+- **Observations:** 238 (229 after data cleaning)  
+- **Features:** Hardware specifications, manufacturer, category, operating system, and price  
 
 ---
 
@@ -40,10 +39,12 @@ The analysis systematically examines **data imbalance, feature standardization, 
 ## 📁 Repository Structure
 
 ```
-├── Laptop.csv
+📁 Exploratory-Analysis-Of-Laptop-Prices-And-Their-Determinants
+│
+├── EDA_ProfileReport_on_LaptopPricingData.html
 ├── Exploratory Analysis Of Laptop Prices And Their Determinants (Notebook).ipynb
 ├── Exploratory Analysis Of Laptop Prices And Their Determinants (Report).pdf
-├── EDA_ProfileReport_on_LaptopPricingData.html
+├── Laptop.csv
 └── README.md
 ```
 
